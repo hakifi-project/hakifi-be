@@ -3225,9 +3225,9 @@ graphemer@^1.4.0:
   resolved "https://registry.npmjs.org/graphemer/-/graphemer-1.4.0.tgz"
   integrity sha512-EtKwoO6kxCL9WO5xipiHTZlSzBm7WLT627TqC/uVRd0HKmq8NXyebnNYxDoBi7wt8eTWrUrKXCOVaFq9x1kgag==
 
-"hakifi-formula@git+ssh://git@bitbucket.org:namicorp/hakifi-formula.git#v1.2":
+"hakifi-formula@git+ssh://git@github.com:hakifi-project/hakifi-formula.git#v1.2":
   version "0.1.2"
-  resolved "git+ssh://git@bitbucket.org/namicorp/hakifi-formula.git#e7d7c185683342296f2e529611ba465676e681b6"
+  resolved "git+ssh://git@github.com:hakifi-project/hakifi-formula.git#067e10c4d420dc8f3fa164448f53957e3ff4d09d"
   dependencies:
     big.js "^6.2.1"
 

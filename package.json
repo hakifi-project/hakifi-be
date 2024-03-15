@@ -54,7 +54,7 @@
     "dayjs": "^1.11.10",
     "ethers": "^6.9.0",
     "exact-math": "^2.2.3",
-    "hakifi-formula": "git+ssh://git@bitbucket.org:namicorp/hakifi-formula.git#v1.2",
+    "hakifi-formula": "git+ssh://git@github.com:hakifi-project/hakifi-formula.git#v1.2",
     "helmet": "^7.1.0",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.43",
